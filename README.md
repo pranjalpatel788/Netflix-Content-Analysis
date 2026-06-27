@@ -1,4 +1,4 @@
-# 📺 Netflix Content Analysis
+# Netflix Content Analysis
 ## Project Overview
 This repository contains a comprehensive data analysis of Netflix titles to explore content production trends, popular genres, target audiences, and geographical content distribution. The analysis uncovers key business and entertainment insights using Python in a Jupyter Notebook environment.
 
