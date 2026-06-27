@@ -1,12 +1,10 @@
 # Netflix-Content-Analysis
 
-##Dataset Details
-
+##Dataset Details  
 The initial dataset, netflix_titles.csv, consists of 8807 rows and 12 columns.
 The available columns are: show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, and description.
 
-##Data Cleaning Workflow
-
+##Data Cleaning Workflow  
 To prepare the data for exploratory analysis, several cleaning and preprocessing steps were executed:
 Removed rows with missing duration values, as they could not be reasonably filled and represented less than 5% of the data.
 Filled null values in the country column with the label "Unknown".
